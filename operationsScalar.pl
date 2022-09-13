@@ -15,7 +15,7 @@ my $mix = $str . $num;             # concatenates string and number.
 # print "mix = $mix\n";
 
 # contoh multiline string
-my $string = 'This is
+my $string = 'This is  
 a multiline
 string';
 
